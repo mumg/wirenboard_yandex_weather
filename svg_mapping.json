@@ -1,0 +1,5962 @@
+[
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_nicon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_nbl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_-ra_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_mra_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_-ra_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_mra_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_-sn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_msn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_-sn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_msn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_+ra_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_pra_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_+ra_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_pra_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_+sn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_psn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_+sn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_psn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_ra_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_ra_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_ra_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_ra_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_sn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_sn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bkn_sn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bkn_sn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_bl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"dst\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_dst"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"du_st\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_du_st"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"fg_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_fg_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"fg_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_fg_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_-ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_mra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_-sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_msn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_+ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_pra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_+sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_psn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_ra_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_ra_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_ts_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_ts_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc_ts\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc_ts"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"ovc\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_ovc"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"skc_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_skc_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"skc_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_skc_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"smog\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_smog"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"strm\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_strm"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/fact_icon",
+      "condition": "==",
+      "value": "\"vlka\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "fact_vlka"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_nicon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_nbl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"bkn_-ra_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_bkn_mra_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"bkn_-sn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_bkn_msn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"bkn_+ra_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_bkn_pra_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"bkn_+sn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_bkn_psn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"bkn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_bkn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"bkn_ra_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_bkn_ra_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"bkn_sn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_bkn_sn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_bl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"dst\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_dst"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"du_st\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_du_st"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"fg_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_fg_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_-ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_mra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_-sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_msn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_+ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_pra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_+sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_psn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ra_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_ra_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_ts_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_ts_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ts\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc_ts"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"ovc\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_ovc"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"skc_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_skc_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"smog\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_smog"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"strm\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_strm"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_day_icon",
+      "condition": "==",
+      "value": "\"vlka\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_day_vlka"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_nicon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_nbl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"bkn_-ra_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_bkn_mra_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"bkn_-sn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_bkn_msn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"bkn_+ra_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_bkn_pra_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"bkn_+sn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_bkn_psn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"bkn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_bkn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"bkn_ra_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_bkn_ra_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"bkn_sn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_bkn_sn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_bl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"dst\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_dst"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"du_st\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_du_st"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"fg_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_fg_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_-ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_mra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_-sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_msn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_+ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_pra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_+sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_psn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ra_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_ra_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_ts_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_ts_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ts\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc_ts"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"ovc\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_ovc"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"skc_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_skc_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"smog\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_smog"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"strm\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_strm"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_today_night_icon",
+      "condition": "==",
+      "value": "\"vlka\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_today_night_vlka"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_nicon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_nbl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"bkn_-ra_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_bkn_mra_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"bkn_-sn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_bkn_msn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"bkn_+ra_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_bkn_pra_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"bkn_+sn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_bkn_psn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"bkn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_bkn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"bkn_ra_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_bkn_ra_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"bkn_sn_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_bkn_sn_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_bl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"dst\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_dst"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"du_st\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_du_st"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"fg_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_fg_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_-ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_mra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_-sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_msn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_+ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_pra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_+sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_psn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ra_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_ra_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_ts_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_ts_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc_ts\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc_ts"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"ovc\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_ovc"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"skc_d\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_skc_d"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"smog\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_smog"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"strm\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_strm"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_day_icon",
+      "condition": "==",
+      "value": "\"vlka\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_day_vlka"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_nicon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_nbl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"bkn_-ra_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_bkn_mra_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"bkn_-sn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_bkn_msn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"bkn_+ra_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_bkn_pra_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"bkn_+sn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_bkn_psn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"bkn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_bkn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"bkn_ra_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_bkn_ra_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"bkn_sn_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_bkn_sn_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"bl\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_bl"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"dst\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_dst"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"du_st\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_du_st"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"fg_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_fg_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_-ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_mra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_-sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_msn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_+ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_pra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_+sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_psn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ra_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_ra_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_sn\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_sn"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ha\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_ts_ha"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ts_ra\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_ts_ra"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc_ts\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc_ts"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"ovc\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_ovc"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"skc_n\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_skc_n"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"smog\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_smog"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"strm\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_strm"
+  },
+  {
+    "write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "click": {
+      "enable": false,
+      "dashboard": null
+    },
+    "style": {
+      "enable": false,
+      "channel": null,
+      "value": ""
+    },
+    "visible": {
+      "enable": true,
+      "channel": "weather/forecast_tomorrow_night_icon",
+      "condition": "==",
+      "value": "\"vlka\""
+    },
+    "long-press": {
+      "enable": false,
+      "dashboard": null
+    },
+    "long-press-write": {
+      "enable": false,
+      "channel": null,
+      "value": {
+        "off": "0",
+        "on": "1"
+      },
+      "check": false
+    },
+    "id": "forecast_tomorrow_night_vlka"
+  }
+]
