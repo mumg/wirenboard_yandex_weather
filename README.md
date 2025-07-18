@@ -26,9 +26,20 @@ cd /root/yandex
 source ./bin/activate
 export YANDEX_WEATHER_KEY=ключ для Yandex Weather API
 export YANDEX_WEATHER_LAT=широта
-учзщке YANDEX_WEATHER_LON=долгота
+export YANDEX_WEATHER_LON=долгота
 python3 yandex.py
 ```
+
+установить бит запуска
+```bash
+chmod +x /etc/cron.hourly/yandex
+```
+
+запустить для проверки работы
+```bash
+/etc/cron.hourly/yandex
+```
+
 в результате в списке устройст появится новое устройство
 
 ![alt text](device.png)
