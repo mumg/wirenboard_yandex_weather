@@ -159,7 +159,7 @@ weather = load_weather()
 
 count = 0
 
-def on_connect(client, userdata, flags, reason_code, properties):
+def on_connect(client, userdata, flags, reason_code, properties=None):
     print(f"Connected with result code {reason_code}")
     global count
     for value in mapper:
@@ -182,18 +182,21 @@ def on_message(client, userdata, msg):
     print(msg.topic + " " + str(msg.payload))
 
 
-def on_subscribe(client, userdata, mid, granted_qos):
+def on_subscribe(client, userdata, mid, granted_qos, properties=None):
     print("Subscribed")
 
 
-def on_publish(client, userdata, mid, reason, properties):
+def on_publish(client, userdata, mid, reason=None, properties=None):
     global count
     count -= 1
     if count == 0:
         client.disconnect()
 
 
-mqttc = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
+if hasattr(mqtt, "CallbackAPIVersion"):
+    mqttc = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
+else:
+    mqttc = mqtt.Client()
 mqttc.on_connect = on_connect
 mqttc.on_message = on_message
 mqttc.on_subscribe = on_subscribe
