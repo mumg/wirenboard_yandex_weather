@@ -34,87 +34,91 @@ mapper = [
      "topic": "/devices/weather/controls/fact_humidity",
      "meta": {"order": 5, "readonly": True, "type": "value"}
      },
+    {"path": ["fact", "pressure_mm"],
+     "topic": "/devices/weather/controls/fact_pressure",
+     "meta": {"order": 6, "readonly": True, "type": "value"}
+     },
     {"path": ["forecasts", 0, "parts", "day", "icon"],
      "topic": "/devices/weather/controls/forecast_today_day_icon",
-     "meta": {"order": 6, "readonly": True, "type": "text"}
+     "meta": {"order": 7, "readonly": True, "type": "text"}
      },
     {"path": ["forecasts", 0, "parts", "day", "condition"],
      "topic": "/devices/weather/controls/forecast_today_day_condition",
-     "meta": {"order": 7, "readonly": True, "type": "text"}
+     "meta": {"order": 8, "readonly": True, "type": "text"}
      },
     {"path": ["forecasts", 0, "parts", "day", "cloudness"],
      "topic": "/devices/weather/controls/forecast_today_day_cloudness",
-     "meta": {"order": 8, "readonly": True, "type": "value"}
+     "meta": {"order": 9, "readonly": True, "type": "value"}
      },
     {"path": ["forecasts", 0, "parts", "day", "temp_avg"],
      "topic": "/devices/weather/controls/forecast_today_day_temperature",
-     "meta": {"order": 9, "readonly": True, "type": "value"}
+     "meta": {"order": 10, "readonly": True, "type": "value"}
      },
     {"path": ["forecasts", 0, "parts", "day", "humidity"],
      "topic": "/devices/weather/controls/forecast_today_day_humidity",
-     "meta": {"order": 10, "readonly": True, "type": "value"}
+     "meta": {"order": 11, "readonly": True, "type": "value"}
      },
 
     {"path": ["forecasts", 0, "parts", "night", "icon"],
      "topic": "/devices/weather/controls/forecast_today_night_icon",
-     "meta": {"order": 11, "readonly": True, "type": "text"}
+     "meta": {"order": 12, "readonly": True, "type": "text"}
      },
     {"path": ["forecasts", 0, "parts", "night", "condition"],
      "topic": "/devices/weather/controls/forecast_today_night_condition",
-     "meta": {"order": 12, "readonly": True, "type": "text"}
+     "meta": {"order": 13, "readonly": True, "type": "text"}
      },
     {"path": ["forecasts", 0, "parts", "night", "cloudness"],
      "topic": "/devices/weather/controls/forecast_today_night_cloudness",
-     "meta": {"order": 13, "readonly": True, "type": "value"}
+     "meta": {"order": 14, "readonly": True, "type": "value"}
      },
     {"path": ["forecasts", 0, "parts", "night", "temp_avg"],
      "topic": "/devices/weather/controls/forecast_today_night_temperature",
-     "meta": {"order": 14, "readonly": True, "type": "value"}
+     "meta": {"order": 15, "readonly": True, "type": "value"}
      },
     {"path": ["forecasts", 0, "parts", "night", "humidity"],
      "topic": "/devices/weather/controls/forecast_today_night_humidity",
-     "meta": {"order": 15, "readonly": True, "type": "value"}
+     "meta": {"order": 16, "readonly": True, "type": "value"}
      },
     {"path": ["forecasts", 1, "parts", "day", "icon"],
      "topic": "/devices/weather/controls/forecast_tomorrow_day_icon",
-     "meta": {"order": 16, "readonly": True, "type": "text"}
+     "meta": {"order": 17, "readonly": True, "type": "text"}
      },
     {"path": ["forecasts", 1, "parts", "day", "condition"],
      "topic": "/devices/weather/controls/forecast_tomorrow_day_condition",
-     "meta": {"order": 17, "readonly": True, "type": "text"}
+     "meta": {"order": 18, "readonly": True, "type": "text"}
      },
     {"path": ["forecasts", 1, "parts", "day", "cloudness"],
      "topic": "/devices/weather/controls/forecast_tomorrow_day_cloudness",
-     "meta": {"order": 18, "readonly": True, "type": "value"}
+     "meta": {"order": 19, "readonly": True, "type": "value"}
      },
     {"path": ["forecasts", 1, "parts", "day", "temp_avg"],
      "topic": "/devices/weather/controls/forecast_tomorrow_day_temperature",
-     "meta": {"order": 19, "readonly": True, "type": "value"}
+     "meta": {"order": 20, "readonly": True, "type": "value"}
      },
     {"path": ["forecasts", 1, "parts", "day", "humidity"],
      "topic": "/devices/weather/controls/forecast_tomorrow_day_humidity",
-     "meta": {"order": 20, "readonly": True, "type": "value"}
+     "meta": {"order": 21, "readonly": True, "type": "value"}
      },
 
     {"path": ["forecasts", 1, "parts", "night", "icon"],
      "topic": "/devices/weather/controls/forecast_tomorrow_night_icon",
-     "meta": {"order": 21, "readonly": True, "type": "text"}
+     "meta": {"order": 22, "readonly": True, "type": "text"}
      },
     {"path": ["forecasts", 1, "parts", "night", "condition"],
      "topic": "/devices/weather/controls/forecast_tomorrow_night_condition",
-     "meta": {"order": 22, "readonly": True, "type": "text"}
+     "meta": {"order": 23, "readonly": True, "type": "text"}
      },
     {"path": ["forecasts", 1, "parts", "night", "cloudness"],
      "topic": "/devices/weather/controls/forecast_tomorrow_night_cloudness",
-     "meta": {"order": 23, "readonly": True, "type": "value"}
+     "meta": {"order": 24, "readonly": True, "type": "value"}
      },
     {"path": ["forecasts", 1, "parts", "night", "temp_avg"],
      "topic": "/devices/weather/controls/forecast_tomorrow_night_temperature",
-     "meta": {"order": 24, "readonly": True, "type": "value"}
+     "meta": {"order": 25, "readonly": True, "type": "value"}
      },
     {"path": ["forecasts", 1, "parts", "night", "humidity"],
      "topic": "/devices/weather/controls/forecast_tomorrow_night_humidity",
-     "meta": {"order": 25, "readonly": True, "type": "value"}
+     "meta": {"order": 26, "readonly": True, "type": "value"}
      }
 
 ]
