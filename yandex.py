@@ -34,7 +34,7 @@ mapper = [
      "topic": "/devices/weather/controls/fact_humidity",
      "meta": {"order": 5, "readonly": True, "type": "value"}
      },
-    {"path": ["fact", "pressure_mm"],
+    {"path": ["info", "def_pressure_mm"],
      "topic": "/devices/weather/controls/fact_pressure",
      "meta": {"order": 6, "readonly": True, "type": "value"}
      },
